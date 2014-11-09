@@ -1,0 +1,14 @@
+c:\users\michele\documents\visual studio 2013\Projects\Virtual Instruments M9803R\Virtual Instruments M9803R\bin\Debug\Virtual Instruments M9803R.exe.config
+c:\users\michele\documents\visual studio 2013\Projects\Virtual Instruments M9803R\Virtual Instruments M9803R\bin\Debug\Virtual Instruments M9803R.exe
+c:\users\michele\documents\visual studio 2013\Projects\Virtual Instruments M9803R\Virtual Instruments M9803R\bin\Debug\Virtual Instruments M9803R.pdb
+c:\users\michele\documents\visual studio 2013\Projects\Virtual Instruments M9803R\Virtual Instruments M9803R\bin\Debug\Virtual Instruments M9803R.xml
+c:\users\michele\documents\visual studio 2013\Projects\Virtual Instruments M9803R\Virtual Instruments M9803R\obj\Debug\Virtual_Instruments_M9803R.Form1.resources
+c:\users\michele\documents\visual studio 2013\Projects\Virtual Instruments M9803R\Virtual Instruments M9803R\obj\Debug\Virtual_Instruments_M9803R.Resources.resources
+c:\users\michele\documents\visual studio 2013\Projects\Virtual Instruments M9803R\Virtual Instruments M9803R\obj\Debug\Virtual Instruments M9803R.vbproj.GenerateResource.Cache
+c:\users\michele\documents\visual studio 2013\Projects\Virtual Instruments M9803R\Virtual Instruments M9803R\obj\Debug\Virtual Instruments M9803R.exe
+c:\users\michele\documents\visual studio 2013\Projects\Virtual Instruments M9803R\Virtual Instruments M9803R\obj\Debug\Virtual Instruments M9803R.xml
+c:\users\michele\documents\visual studio 2013\Projects\Virtual Instruments M9803R\Virtual Instruments M9803R\obj\Debug\Virtual Instruments M9803R.pdb
+c:\users\michele\documents\visual studio 2013\Projects\Virtual Instruments M9803R\Virtual Instruments M9803R\bin\Debug\Virtual Instruments M9803R.exe.manifest
+c:\users\michele\documents\visual studio 2013\Projects\Virtual Instruments M9803R\Virtual Instruments M9803R\bin\Debug\Virtual Instruments M9803R.application
+c:\users\michele\documents\visual studio 2013\Projects\Virtual Instruments M9803R\Virtual Instruments M9803R\obj\Debug\Virtual Instruments M9803R.exe.manifest
+c:\users\michele\documents\visual studio 2013\Projects\Virtual Instruments M9803R\Virtual Instruments M9803R\obj\Debug\Virtual Instruments M9803R.application
